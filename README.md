@@ -1,17 +1,17 @@
 <h3 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=250&size=30&pause=1000&color=&width=1200&height=50&lines=👋+Hi,+I'm+Rafiqul+Islam" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=007ACC&center=true&vCenter=true&width=900&height=50&lines=👋+Hi,+I'm+Rafiqul+Islam" alt="Hi, I'm Rafiqul Islam" />
   </a>
 </h3>
 
 <h4 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=250&size=30&pause=1000&color=&width=1200&height=50&lines=🛠️+Junior+SQA+Engineer+|+Software+Quality+Assurance+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&pause=1000&color=007ACC&center=true&vCenter=true&width=900&height=50&lines=🛠️+Junior+SQA+Engineer;Software+Quality+Assurance+Enthusiast" alt="Junior SQA Engineer | Software Quality Assurance Enthusiast" />
   </a>
 </h4>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=rafiqul-islam23344&label=Profile%20views&color=0e75b6&style=flat" alt="rafiqul-islam23344" />
+  <img src="https://komarev.com/ghpvc/?username=rafiqul233&label=Profile%20Views&color=007ACC&style=flat" alt="Profile Views" />
 </p>
 
 ![coverphoto](https://raw.githubusercontent.com/rafiqul-islam23344/-4Beats/main/coverphoto.png)
