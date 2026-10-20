@@ -14,7 +14,7 @@
   <img src="https://komarev.com/ghpvc/?username=rafiqul233&label=Profile%20Views&color=007ACC&style=flat" alt="Profile Views" />
 </p>
 
-![coverphoto](https://raw.githubusercontent.com/rafiqul-islam23344/-4Beats/main/coverphoto.png)
+![coverphoto](https://github.com/rafiqul233/-4Beats/blob/master/coverphoto1.png)
 
 I am passionate about ensuring software quality through **Manual, Automation, API, and Performance Testing**. With a strong foundation in SDLC, STLC, and Agile methodologies, I aim to streamline and enhance the QA process effectively.
 
